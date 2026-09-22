@@ -2,6 +2,14 @@
 
 A simple desktop calculator built using **Java Swing (JFC)** to explore GUI development concepts like layouts, event handling, dialogs, and input validation.
 
+## Download (Executable)
+Download the latest release from:
+https://github.com/jafar-cmd/Calculator-inJFC-/releases
+
+### Run
+- Cross-platform (recommended): `java -jar Calculator-v1.1.0.jar`
+- Windows: run `Calculator.exe` (requires Java 8+)
+
 ## Features
 - Basic operations: **Add, Subtract, Multiply, Divide**
 - **Input validation** for invalid/empty values
