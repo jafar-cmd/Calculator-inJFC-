@@ -23,7 +23,7 @@ https://github.com/jafar-cmd/Calculator-inJFC-/releases
 - Eclipse IDE (for development)
 
 ## Screenshot
-![Calculator Screenshot](screenshots/app.png)
+![Calculator Screenshot](screenshots/App v.1.1.0.png)
 
 ## How to Run
 
